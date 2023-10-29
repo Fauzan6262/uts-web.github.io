@@ -1,0 +1,37 @@
+body {
+  font-family: "Sans-serif", "Sans-serif", Calibri, "sans-serif", sans-serif;
+}
+
+table {
+  text-align: center;
+  margin: 30px 0px;
+}
+
+td {
+  width: 40px;
+  height: 40px;
+}
+
+td input {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.block {
+  background-color: #000;
+}
+
+
+main {
+  margin: 20px 0px;
+}
+
+
+
+.github {
+  color: white;
+  text-decoration: none;
+}
